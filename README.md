@@ -31,3 +31,8 @@
 	
 ## Election Audit Summary 
 ### This script can be used to analyze an election csv file and write the results of the election to a separate text file. We can import any data set in the form of a csv into this script and modify any variable names, indexes, etc. to acheive the election results. Additionally, some iterations through any 'for loops' may need to be changed based on the data setup in the csv file. For example, in our data set, candidate names were in row 2 and county name was in row 1, which may be different than the data set you choose to upload. 
+
+## Resources
+### 
+* Data Source: election_results.csv
+* Software: Python 3.7.6, Visual Studio Code 1.50.0
